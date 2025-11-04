@@ -17,7 +17,7 @@ El sistema permitirá:
 | Nombre | GitHub |
 |---------|--------|
 | Julio Jesús López Casado | [@usuario1](https://github.com/usuario1) |
-| Roberto Ariza Molina | [@roberto-ariza]([https://github.com/usuario2](https://github.com/roberto-ariza)) |
+| Roberto Ariza Molina | [@roberto-ariza](https://github.com/roberto-ariza) |
 | Alejandro Álvarez Soro | [@usuario3](https://github.com/usuario3) |
 | Alejandro Martín Fernández | [@Alejandro574](https://github.com/alejandro574) |
 | Alejandro Díaz Ariza | [@usuario5](https://github.com/usuario5) |
@@ -28,6 +28,7 @@ El sistema permitirá:
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/usuario/proyecto-parking.git
+
 
 
 
