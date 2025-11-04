@@ -18,7 +18,7 @@ El sistema permitirá:
 |---------|--------|
 | Julio Jesús López Casado | [@juljesus77-lab](https://github.com/juljesus77-lab) |
 | Roberto Ariza Molina | [@roberto-ariza](https://github.com/roberto-ariza) |
-| Alejandro Álvarez Soro | [@usuario3](https://github.com/usuario3) |
+| Alejandro Álvarez Soro | [@aleexx30](https://github.com/aleexx30) |
 | Alejandro Martín Fernández | [@Alejandro574](https://github.com/alejandro574) |
 | Alejandro Díaz Ariza | [@AlejandroDiar](https://github.com/AlejandroDiar) |
 
@@ -49,6 +49,7 @@ Abre el panel de Control de código fuente (icono de rama 🌿)
 Inicia sesión en GitHub
 
 Confirma que el repositorio está vinculado correctamente
+
 
 
 
