@@ -33,7 +33,7 @@ Crea una carpeta para el proyecto, por ejemplo:
 2️⃣ **Clonar repositorio**  
 Abre una terminal en esa carpeta y ejecuta:  
 ```bash
-git clone https://github.com/tu-usuario/proyecto-parking.git
+git clone https://github.com/AlejandroDiar/ProyectoParking.git
 3️⃣ Abrir en Visual Studio Code
 Entra en la carpeta del proyecto:
 
@@ -49,6 +49,7 @@ Abre el panel Control de código fuente (rama 🌿)
 Inicia sesión en GitHub
 
 Confirma que el repositorio está vinculado
+
 
 
 
