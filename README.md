@@ -14,15 +14,16 @@ El sistema permitirá:
 ---
 ## 👥 Participantes
 
-| Nombre | GitHub |
-|---------|--------|
-| Julio Jesús López Casado | [@juljesus77-lab](https://github.com/juljesus77-lab) |
-| Roberto Ariza Molina | [@roberto-ariza](https://github.com/roberto-ariza) |
-| Alejandro Álvarez Soro | [@aleexx30](https://github.com/aleexx30) |
-| Alejandro Martín Fernández | [@Alejandro574](https://github.com/alejandro574) |
-| Alejandro Díaz Ariza | [@AlejandroDiar](https://github.com/AlejandroDiar) |
+| Nombre | GitHub | Correo |
+|---------|--------|--------|
+| Julio Jesús López Casado | [@juljesus77-lab](https://github.com/juljesus77-lab) | ejemplo1@correo.com |
+| Roberto Ariza Molina | [@roberto-ariza](https://github.com/roberto-ariza) | ejemplo2@correo.com |
+| Alejandro Álvarez Soro | [@aleexx30](https://github.com/aleexx30) | ejemplo3@correo.com |
+| Alejandro Martín Fernández | [@Alejandro574](https://github.com/Alejandro574) | ejemplo4@correo.com |
+| Alejandro Díaz Ariza | [@AlejandroDiar](https://github.com/AlejandroDiar) | ejemplo5@correo.com |
 
 ---
+
 
 
 
