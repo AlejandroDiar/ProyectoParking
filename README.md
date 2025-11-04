@@ -27,29 +27,28 @@ El sistema permitirá:
 ## 🧭 Pasos para configurar el proyecto en Windows
 
 1️⃣ **Crear carpeta**  
-Crea una carpeta para el proyecto, por ejemplo:  
+Crea una carpeta donde guardarás el proyecto, por ejemplo:  
 `C:\Proyectos\ASIR`
 
-2️⃣ **Clonar repositorio**  
-Abre una terminal en esa carpeta y ejecuta:  
+2️⃣ **Clonar el repositorio en esa carpeta**  
+Abre una terminal en la carpeta y ejecuta:  
 ```bash
-git clone https://github.com/AlejandroDiar/ProyectoParking.git
-3️⃣ Abrir en Visual Studio Code
-Entra en la carpeta del proyecto:
+git clone https://github.com/tu-usuario/proyecto-parking.git
+3️⃣ Abrir el proyecto con Visual Studio Code
+Entra en la carpeta del proyecto y escribe:
 
 bash
 Copiar código
 cd proyecto-parking
 code .
 4️⃣ Enlazar con GitHub
-En VS Code:
+En Visual Studio Code:
 
-Abre el panel Control de código fuente (rama 🌿)
+Abre el panel de Control de código fuente (icono de rama 🌿)
 
 Inicia sesión en GitHub
 
-Confirma que el repositorio está vinculado
-
+Confirma que el repositorio está vinculado correctamente
 
 
 
