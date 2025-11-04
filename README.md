@@ -16,11 +16,11 @@ El sistema permitirá:
 
 | Nombre | GitHub |
 |---------|--------|
-| Julio Jesús López Casado | [@usuario1](https://github.com/usuario1) |
+| Julio Jesús López Casado | [@juljesus77-lab](https://github.com/juljesus77-lab) |
 | Roberto Ariza Molina | [@roberto-ariza](https://github.com/roberto-ariza) |
 | Alejandro Álvarez Soro | [@usuario3](https://github.com/usuario3) |
 | Alejandro Martín Fernández | [@Alejandro574](https://github.com/alejandro574) |
-| Alejandro Díaz Ariza | [@usuario5](https://github.com/usuario5) |
+| Alejandro Díaz Ariza | [@AlejandroDiar](https://github.com/AlejandroDiar) |
 
 ---
 ## 🚀 Ejecución del proyecto
@@ -28,6 +28,7 @@ El sistema permitirá:
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/usuario/proyecto-parking.git
+
 
 
 
