@@ -16,11 +16,11 @@ El sistema permitirá:
 
 | Nombre | GitHub | Correo |
 |---------|--------|--------|
-| Julio Jesús López Casado | [@juljesus77-lab](https://github.com/juljesus77-lab) | ejemplo1@correo.com |
+| Julio Jesús López Casado | [@juljesus77-lab](https://github.com/juljesus77-lab) | juljesus77@gmail.com |
 | Roberto Ariza Molina | [@roberto-ariza](https://github.com/roberto-ariza) | ejemplo2@correo.com |
 | Alejandro Álvarez Soro | [@aleexx30](https://github.com/aleexx30) | ejemplo3@correo.com |
 | Alejandro Martín Fernández | [@Alejandro574](https://github.com/Alejandro574) | amarfer574@ieszaidinvergeles.org |
-| Alejandro Díaz Ariza | [@AlejandroDiar](https://github.com/AlejandroDiar) | ejemplo5@correo.com |
+| Alejandro Díaz Ariza | [@AlejandroDiar](https://github.com/AlejandroDiar) | adiaari1810@ieszaidinvergeles.org |
 
 ---
 
