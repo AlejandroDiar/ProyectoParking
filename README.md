@@ -17,12 +17,13 @@ El sistema permitirá:
 | Nombre | GitHub | Correo |
 |---------|--------|--------|
 | Julio Jesús López Casado | [@juljesus77-lab](https://github.com/juljesus77-lab) | juljesus77@gmail.com |
-| Roberto Ariza Molina | [@roberto-ariza](https://github.com/roberto-ariza) | rarimol@ieszadinvergeles.org |
+| Roberto Ariza Molina | [@roberto-ariza](https://github.com/roberto-ariza) | robertoarizamolina@gmail.com |
 | Alejandro Álvarez Soro | [@aleexx30](https://github.com/aleexx30) | aalvsor725@ieszaidinvergeles.org |
 | Alejandro Martín Fernández | [@Alejandro574](https://github.com/Alejandro574) | amarfer574@ieszaidinvergeles.org |
 | Alejandro Díaz Ariza | [@AlejandroDiar](https://github.com/AlejandroDiar) | adiaari1810@ieszaidinvergeles.org |
 
 ---
+
 
 
 
