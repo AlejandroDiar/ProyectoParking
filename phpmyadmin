@@ -1,0 +1,42 @@
+CREATE TABLE PROFESOR (
+    id_profesor INT PRIMARY KEY AUTO_INCREMENT,
+    nombre VARCHAR(50),
+    apellidos VARCHAR(100),
+    departamento VARCHAR(50),
+    activo BOOLEAN DEFAULT TRUE
+);
+CREATE TABLE VEHICULO_AUTORIZADO (
+    matricula VARCHAR(15) PRIMARY KEY,
+    marca_modelo VARCHAR(50),
+    id_profesor INT,
+    FOREIGN KEY (id_profesor) REFERENCES PROFESOR(id_profesor)
+);
+CREATE TABLE PLAZA (
+    id_plaza INT PRIMARY KEY AUTO_INCREMENT,
+    tipo VARCHAR(20), -- ej: Coche, Moto, Eléctrico
+    estado_actual VARCHAR(20) -- ej: Libre, Ocupada
+);
+CREATE TABLE CAMARA (
+    id_camara INT PRIMARY KEY AUTO_INCREMENT,
+    ubicacion VARCHAR(100),
+    ip_o_url VARCHAR(255)
+);
+CREATE TABLE REGISTRO_ACCESO (
+    id_acceso INT PRIMARY KEY AUTO_INCREMENT,
+    matricula_detected VARCHAR(15),
+    fecha_hora DATETIME DEFAULT CURRENT_TIMESTAMP,
+    tipo_movimiento VARCHAR(10), -- Entrada/Salida
+    acceso_concedido BOOLEAN,
+    id_camara INT,
+    FOREIGN KEY (id_camara) REFERENCES CAMARA(id_camara)
+);
+CREATE TABLE INFRACCION (
+    id_infraccion INT PRIMARY KEY AUTO_INCREMENT,
+    tipo_infraccion VARCHAR(100),
+    fecha_hora DATETIME DEFAULT CURRENT_TIMESTAMP,
+    ruta_imagen VARCHAR(255),
+    id_plaza INT,
+    matricula VARCHAR(15),
+    FOREIGN KEY (id_plaza) REFERENCES PLAZA(id_plaza),
+    FOREIGN KEY (matricula) REFERENCES VEHICULO_AUTORIZADO(matricula)
+);
